@@ -11,6 +11,8 @@ A Python application for summarizing text using natural language processing tech
 - Easy-to-use web interface
 
 ## Usage
+![image](https://github.com/user-attachments/assets/1b01edf8-254a-4fe3-a327-49fec5ad3fd1)
+
 
 ### Running the Web Application
 
